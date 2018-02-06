@@ -50,7 +50,6 @@ public class MainActivity extends AppCompatActivity {
         mContext = this;
         mActivity = this;
         models = new ArrayList<>();
-//        getData();
 
         initView();
     }
